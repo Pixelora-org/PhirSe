@@ -1,0 +1,41 @@
+{
+  "name": "phirse",
+  "version": "1.0.0",
+  "description": "give it a second life - India household recycling drop-off + partner margin prototype",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixelora-org/PhirSe.git"
+  },
+  "keywords": [
+    "recycling",
+    "sustainability",
+    "india"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pixelora-org/PhirSe/issues"
+  },
+  "homepage": "https://github.com/Pixelora-org/PhirSe#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "next": "^16.3.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/react": "^19.0.6",
+    "@types/react-dom": "^19.0.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.3"
+  }
+}
